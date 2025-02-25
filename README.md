@@ -11,5 +11,3 @@ We investigated whether thickened origami structures can maintain rigid folding 
 ## Findings
 - Some folds pass numerical optimization but fail the empirical limit, indicating that structural modifications like offset creases may allow folding beyond the expected threshold.
 - Using both methods provides a more complete approach: empirical filtering ensures material feasibility, while numerical checks confirm geometric validity.
-
-**Code and results:** 
